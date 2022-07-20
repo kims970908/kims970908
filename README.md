@@ -14,7 +14,9 @@
 ## <div align="center">  💜Introuduce💜 <div>
 
 <div align="center">
-[My notion page📃](https://nervous-droplet-18a.notion.site/b95ddc62d06545f1a0e975834a9338b5, "notion")
+  <a href="https://nervous-droplet-18a.notion.site/b95ddc62d06545f1a0e975834a9338b5" target="_blank">
+    My notion page📃
+  </a>
 </div>
 
 
